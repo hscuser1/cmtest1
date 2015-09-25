@@ -4,4 +4,6 @@ the new file was created
 <target name="init">
 </echo>sample task<echo>
 </project>
+<target name="clean" depends=init">
+</project>
 </target>
