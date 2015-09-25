@@ -3,7 +3,7 @@ the new file was created
 <property name="cmtest1" default="init">
 <target name="init">
 </echo>sample task<echo>
-</project>
-<target name="clean" depends=init">
-</project>
 </target>
+<target name="clean" depends=init">
+</target>
+</project>
